@@ -1,0 +1,13 @@
+[project]
+name = "em"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.2.4",
+    "plotly>=6.0.1",
+    "torch>=2.6.0",
+    "transformer-lens>=2.15.0",
+    "transformers>=4.51.3",
+]
